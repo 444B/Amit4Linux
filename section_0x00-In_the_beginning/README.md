@@ -3,8 +3,11 @@
 1. the outline of the course  
 2. getting set up with a Linux machine  
 3. a 30,000 ft view of the world we live in and the role that computers have  
+<<<<<<< HEAD
+
 ## Content  
-### Course Outline  
+___
+## Course Outline  
 The outline of this course is visible from the repo root directory.   We begin with an introduction, move into the history of computing and the context of these devices, start using linux, move on to networking and cloud computing, discuss the issue of Cyber Security and the solutions and time permitted we will talk about some corporate tips and tricks and what to expect when working in a large company  
 
 ### Getting set up
