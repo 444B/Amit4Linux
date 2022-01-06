@@ -1,11 +1,11 @@
 # title
 ### This section will handle\
 
-## content
-___
+## Content
 
-## tasks  
-___
 
-## links  
-___
+## Tasks  
+
+
+## Links  
+
