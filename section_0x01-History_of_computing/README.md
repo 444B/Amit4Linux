@@ -1,10 +1,10 @@
 # title
-### This section will handle \
-
+### This section will handle
+- the brief history of computers and the layers of abstraction 
 ## Content
 
 
-## Tasks  
+## Learning Outcomes ## Tasks 
 
 
   
