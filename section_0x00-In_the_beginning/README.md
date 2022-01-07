@@ -33,10 +33,10 @@ https://github.com/444B/CLI
 [ This is expected to take place live or online]
 
 
-### Progession
-## Learning Outcomes 
+## Progession
+### Learning Outcomes 
 
-## Tasks 
+### Tasks 
 The Tasks for this section are:  
 1. Set your expectations for the content and learning method that lies ahead and how future sessions will be done  
 2. Get you set up with a working Linux System of your own  
