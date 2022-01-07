@@ -1,12 +1,4 @@
-# In The Beginning...
-## This section will handle  
-
-
-## Content  
-### Readings / Clips (To be completed before the live session )
-
-
-# title  
+# In The Beginning...  
 ### This Section will handle  
 1. the outline of the course  
 2. getting set up with a Linux machine  
