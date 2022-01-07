@@ -1,13 +1,20 @@
 # In The Beginning...
 ## This section will handle  
-1. the outline of the course  
-2. getting set up with a Linux machine  
-3. a 30,000 ft view of the world we live in and the role that computers have  
+
 
 ## Content  
 ### Readings / Clips (To be completed before the live session )
 
-### Course Outline  
+
+# title  
+### This Section will handle  
+1. the outline of the course  
+2. getting set up with a Linux machine  
+3. a 30,000 ft view of the world we live in and the role that computers have  
+## Content  
+### Readings / Clips (To be completed before the live session )  
+### Notes  
+#### Course Outline  
 The outline of this course is visible from the repo root directory.   
 We begin with an introduction, move into the history of computing and the context of these devices, start using linux, move on to networking and cloud computing, discuss the issue of Cyber Security and the solutions and time permitted we will talk about some corporate tips and tricks and what to expect when working in a large company  
 
@@ -26,23 +33,12 @@ Every section follow the following topology:
         - Learning Outcomes 
         - Tasks 
 
-# title
-### This Section will handle
-## Content
-### Readings / Clips (To be completed before the live session )
-### Notes
-### Discussion
-## Progression 
-### Learning Outcomes 
-### Tasks 
-
-
 The content of the course itself will be a mixture of mentored session and self studies. You are expected to 
-- ask questions, -
+- ask questions,
 - watch the recommended videos and 
 - finish assigned tasks  
 
-### Getting set up
+#### Getting set up
 We will have to use a specialized Operating system that is very different from windows in many ways. It is called linux and it works in a different but arguably better way than windows, both technically and ideologically.  
 We will need to download something called VirtualBox which will take some resources (RAM, CPU, space) in our computer and create a virtual machine. From that point, we give the virtual machine a .iso file, basically like putting a CD into an actual machine and turnign it on. 
 Voila! We have tricked our computer into making a simulated machine inside of itself that we can use for a lab environment to learn, break, have fun. Welcome to the sandbox :)  
@@ -52,19 +48,11 @@ https://github.com/444B/CLI
 - It is reccomended to get [Virtualbox](https://www.virtualbox.org/wiki/Downloads) for whichever OS you have  
 - Download a suitable Linux Operating system. I reccomend [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)  
 - We will go through the installation process but there are videos online that explain the process adequately. Here is a [Youtube Video](https://www.youtube.com/watch?v=S26CKNo4Tgs) that will explain the installation process if you want to get started sooner.
-
-### Discussion
+### Discussion  
 [ This is expected to take place live or online]
-
-
-## Progession
-### Learning Outcomes 
+## Progression  
+### Learning Outcomes  
 1. Set your expectations for the content and learning method that lies ahead and how future sessions will be done  
 2. Get you excited and fascinated with the world of Computers and Tech
-
-### Tasks 
-The Tasks for this section are:  
+### Tasks  
 1. Get you set up with a working Linux System of your own  
-
-  
-
