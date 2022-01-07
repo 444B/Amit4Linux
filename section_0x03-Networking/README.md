@@ -1,5 +1,5 @@
 # Networking    
-### This Section will handle  
+### Section Scope  
 ## Content  
 ### Readings / Clips (To be completed before the live session )  
 ### Notes  
@@ -11,6 +11,8 @@
 - familiarity with how connected networks create the Internet
 - familiarity with SSH
 - familiarity with DHCP
+- Familiarity with IP addresses and sub topics
+
 ### Tasks  
   
 

@@ -1,5 +1,5 @@
 # Cloud Computing    
-### This Section will handle  
+### Section Scope  
 ## Content  
 ### Readings / Clips (To be completed before the live session )  
 ### Notes  

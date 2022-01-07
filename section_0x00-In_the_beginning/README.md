@@ -1,5 +1,5 @@
 # In The Beginning...  
-### This Section will handle  
+### Section Scope  
 1. the outline of the course  
 2. getting set up with a Linux machine  
 3. a 30,000 ft view of the world we live in and the role that computers have  
@@ -13,17 +13,6 @@ We begin with an introduction, move into the history of computing and the contex
 We will have some online sessions and hopefully be able to meet in person as well when possible. The course is expected to run for 3 weeks and there will be a test at the conclusion that will determine your continuation in the bootcamp. I have no doubt that each of you have the potential to succeed and I can assure you that it *IS* worth the effort!  
 
 We will use Discord for our online sessions. Discord is a community platform where we can discuss and share information. I have already generated a server that we can use and you can contact me for the invite link. All updates and sessions will be given on this platform so please download it [here](https://discord.com/download).  
-
-Every section follow the following topology:
-- Title of Section
-    - Scope of section
-    - Content
-        - Readings / Clips (To be completed before the live session )
-        - Notes
-        - Discussion
-    - Progression 
-        - Learning Outcomes 
-        - Tasks 
 
 The content of the course itself will be a mixture of mentored session and self studies. You are expected to 
 - ask questions,
