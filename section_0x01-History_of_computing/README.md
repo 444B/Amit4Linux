@@ -1,4 +1,5 @@
-# History of Computing  
+# History of Computing
+UNDER CONSTRUCTION  
 ### Section Scope  
 - the brief history of computers and the layers of abstraction that that are comprised of (OSI Model)
 - An introduction to Linux that will begin with its history and conclude with being familiar with the usage of the Linux command line
