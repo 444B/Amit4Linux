@@ -15,5 +15,5 @@ UNDER CONSTRUCTION
 ## Progression  
 ### Learning Outcomes  
 - Understanding the concept of abstraction within computing and Tech
-- The be familiar with Linux and what makes it unique 
+- To be familiar with Linux and what makes it unique 
 ### Tasks   
