@@ -19,6 +19,9 @@ The content of the course itself will be a mixture of mentored session and self 
 - watch the recommended videos and 
 - finish assigned tasks  
 
+Crash Course Computer Science
+- You are expected to complete the Crash Course Computer science videos before the evening of the 26th January. Link to study materials are in discord as well as the video playlist which is [here](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+
 #### Getting set up
 We will have to use a specialized Operating system that is very different from windows in many ways. It is called linux and it works in a different but arguably better way than windows, both technically and ideologically.  
 We will need to download something called VirtualBox which will take some resources (RAM, CPU, space) in our computer and create a virtual machine. From that point, we give the virtual machine a .iso file, basically like putting a CD into an actual machine and turnign it on. 

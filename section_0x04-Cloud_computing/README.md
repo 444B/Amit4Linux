@@ -2,6 +2,11 @@
 ### Section Scope  
 ## Content  
 ### Readings / Clips (To be completed before the live session )  
+- [Powercert Cloud Computing](https://www.youtube.com/watch?v=_a6us8kaq0g)
+- []()
+- []()
+- []()
+- []()
 ### Notes  
 ### Discussion  
 [ This is expected to take place live or online]

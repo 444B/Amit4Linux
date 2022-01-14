@@ -4,6 +4,10 @@
 - An introduction to Linux that will begin with its history and conclude with being familiar with the usage of the Linux command line
 ## Content  
 ### Readings / Clips (To be completed before the live session )  
+- []()
+- []()
+- []()
+- []()
 ### Notes  
 ### Discussion  
 [ This is expected to take place live or online]
