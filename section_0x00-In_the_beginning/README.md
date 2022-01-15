@@ -38,5 +38,8 @@ https://github.com/444B/CLI
 ### Learning Outcomes  
 1. Set your expectations for the content and learning method that lies ahead and how future sessions will be done  
 2. Get you excited and fascinated with the world of Computers and Tech
+3. Clarify the setup of the course, the syllabus and schedule
+4. Confirm methods of communication and platform
 ### Tasks  
-1. Get you set up with a working Linux System of your own  
+1. Get you set up with a working Linux System of your own but this will be focused on at the beginning of [section_0x02](https://github.com/444B/Amit4Linux/tree/main/section_0x02-Linux)
+2. Begin watching the Crash Course Computer Science videos, to be completed by 26th January (should take 2 weeks, 1 hour a day)

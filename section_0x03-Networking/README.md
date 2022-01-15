@@ -2,7 +2,7 @@
 UNDER CONSTRUCTION  
 ### Section Scope  
 ## Content  
-### Readings / Clips (To be completed before the live session )  
+### Readings / Clips  
 - [FireShip OSI Video](https://www.youtube.com/watch?v=keeqnciDVOo)
 - [PowerCert - Servers](https://www.youtube.com/watch?v=UjCDWCeHCzY)
 - [PowerCert - Proxy Servers](https://www.youtube.com/watch?v=5cPIukqXe5w)
@@ -11,6 +11,7 @@ UNDER CONSTRUCTION
 - [PowerCert - DNS](https://www.youtube.com/watch?v=mpQZVYPuDGU)
 - []()
 ### Notes  
+#### [etc]  
 ### Discussion  
 [ This is expected to take place live or online]
 ## Progression  
