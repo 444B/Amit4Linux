@@ -5,11 +5,12 @@ UNDER CONSTRUCTION
 ## Content  
 ### Readings / Clips  
 - [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
-- []()
+- [Computing timeline](https://www.computerhistory.org/timeline/computers/) skim through to get a sense of the change over time
 - []()
 - []()
 ### Notes  
 #### [etc]  
+Computers the size of a piece of rice (https://images.indianexpress.com/2018/06/worlds-smallestt-computer-university-of-michigan-759.jpg)
 ### Discussion  
 [ This is expected to take place live or online]
 ## Progression  

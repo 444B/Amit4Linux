@@ -30,4 +30,4 @@ This course will focus on
 
 The other sections (Networking, Cloud computing, Cyber and Corporate) will be used as additional material and time permitting, we will discuss as well.
 
-Please notify me of any spelling errors made in this repo and contact me if anything is not clear / needs clarification.
+Please notify me of any spelling errors made in this repo and contact me if anything is not clear and needs clarification.
