@@ -11,7 +11,9 @@ This is the most important section and will be the focus of our sessions. We
 - Watch [Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 - Watch [Bash in 100 seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 ### Notes  
-#### [etc]  
+#### Commands
+- cd [ Change directory ]
+- ls [ lists contents of current directory ]
 ### Discussion  
 [ This is expected to take place live or online]
 ## Progression  
