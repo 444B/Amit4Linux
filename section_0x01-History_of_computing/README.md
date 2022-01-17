@@ -4,7 +4,7 @@ UNDER CONSTRUCTION
 - the brief history of computers and the layers of abstraction that that are comprised of (OSI Model)
 ## Content  
 ### Readings / Clips  
-- [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+- [Crash Course Computer Science up to #10](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
 - [Computing timeline](https://www.computerhistory.org/timeline/computers/) skim through to get a sense of the change over time
 - []()
 - []()
