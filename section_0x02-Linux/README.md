@@ -12,8 +12,19 @@ This is the most important section and will be the focus of our sessions. We
 - Watch [Bash in 100 seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 ### Notes  
 #### Commands
-- cd [ Change directory ]
-- ls [ lists contents of current directory ]
+- cd == Change directory
+    - cd == navigates to the user home
+    - cd <directory> == navigates into a directory
+    - cd .. == navigates up one directory level
+- ls == lists contents of current directory ]
+    - ls -lah == lists contents of current directory in long format, all files and in human readable format
+- pwd == prints working directory
+- nano <file> == opens a file and allows you to edit the text inside
+- man <command> == shows the manual for the specific command
+- apt <command>
+    - apt update == updates the latest software releases 
+    - apt upgrade == upgrades the local software to the latest releases
+    - apt install <package name> == installs the specified package to the machine
 ### Discussion  
 [ This is expected to take place live or online]
 ## Progression  
